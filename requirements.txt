@@ -24,7 +24,7 @@ google-auth==1.6.3
 idna==2.8
 ipaddress==1.0.22
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 keyring==10.6.0
 keyrings.alt==3.0
 kubernetes==10.0.0
